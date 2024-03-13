@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Administrator
+Build-Jdk: 16.0.2
+Implementation-Title: IMFinance
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gramtarang
+Main-Class: ${start-class}
+
